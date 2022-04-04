@@ -118,6 +118,6 @@ a:hover {
 
 .container {
     display: grid;
-    grid-template-columns: repeat(147, 6px);
+    grid-template-columns: repeat(146, 6px);
     grid-template-rows: repeat(194, 6px);
 }
