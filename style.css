@@ -1,0 +1,123 @@
+.c109026 {
+    background-color: rgb(109, 0, 26);
+}
+.c190057 {
+    background-color: rgb(190, 0, 57);
+}
+.c255690 {
+    background-color: rgb(255, 69, 0);
+}
+.c2551680 {
+    background-color: rgb(255, 168, 0);
+}
+.c25521453 {
+    background-color: rgb(255, 214, 53);
+}
+.c255248184 {
+    background-color: rgb(255, 248, 184);
+}
+.c0163104 {
+    background-color: rgb(0, 163, 104);
+}
+.c0204120 {
+    background-color: rgb(0, 204, 120);
+}
+.c12623786 {
+    background-color: rgb(126, 237, 86);
+}
+.c0117111 {
+    background-color: rgb(0, 117, 111);
+}
+.c0158170 {
+    background-color: rgb(0, 158, 170);
+}
+.c0204192 {
+    background-color: rgb(0, 204, 192);
+}
+.c3680164 {
+    background-color: rgb(36, 80, 164);
+}
+.c54144234 {
+    background-color: rgb(54, 144, 234);
+}
+.c81233244 {
+    background-color: rgb(81, 233, 244);
+}
+.c7358193 {
+    background-color: rgb(73, 58, 193);
+}
+.c10692255 {
+    background-color: rgb(106, 92, 255);
+}
+.c148179255 {
+    background-color: rgb(148, 179, 255);
+}
+.c12930159 {
+    background-color: rgb(129, 30, 159);
+}
+.c18064192 {
+    background-color: rgb(180, 74, 192);
+}
+.c228171255 {
+    background-color: rgb(228, 171, 255);
+}
+.c22216127 {
+    background-color: rgb(222, 16, 127);
+}
+.c25556129 {
+    background-color: rgb(255, 56, 129);
+}
+.c255153170 {
+    background-color: rgb(255, 153, 170);
+}
+.c1097247 {
+    background-color: rgb(109, 72, 47);
+}
+.c15610538 {
+    background-color: rgb(156, 105, 38);
+}
+.c255180112 {
+    background-color: rgb(255, 180, 112);
+}
+.c000 {
+    background-color: rgb(0, 0, 0);
+}
+.c818282 {
+    background-color: rgb(81, 82, 82);
+}
+.c137141144 {
+    background-color: rgb(137, 141, 144);
+}
+.c212215217 {
+    background-color: rgb(212, 215, 217);
+}
+.c255255255 {
+    background-color: rgb(255, 255, 255);
+}
+
+#pos {
+    left: 0;
+    top: 0;
+    position: absolute;
+    background-color: white;
+}
+
+a {
+    height: 6px;
+    width: 6px;
+    
+}
+
+a:hover {
+    z-index: 1;
+    border: solid 1px black;
+    outline: solid 1px white;
+    box-sizing: border-box;
+
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(141, 6px);
+    grid-template-rows: repeat(250, 6px);
+}
